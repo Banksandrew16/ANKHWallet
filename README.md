@@ -1,6 +1,8 @@
 # ANKHWallet
 multi-chain cold wallet generator
 
+## Not fully working yet 
+
 Instructions for usage:
 
 Save the script in your secure environment as, for example, multi_chain_wallet_generator.py.
