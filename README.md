@@ -5,7 +5,7 @@ multi-chain cold wallet generator
 
 Instructions for usage:
 
-Save the script in your secure environment as, for example, multi_chain_wallet_generator.py.
+Save the script in your secure environment 
 
 Transfer the script to the offline computer or set up an offline environment.
 
