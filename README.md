@@ -1,4 +1,4 @@
-# ANKHWallet
+# Frozen Wallet
 multi-chain cold wallet generator
 
 ## Not fully working yet 
